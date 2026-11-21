@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFader</string>
+    <string name="app_subtitle">Smooth fade-in &amp; fade-out for every track, system-wide</string>
+
+    <string name="label_enable">Enable MusicFader</string>
+    <string name="status_active">Active – listening for track changes</string>
+    <string name="status_inactive">Inactive – fading disabled</string>
+
+    <string name="label_fade_in">Fade-in duration</string>
+    <string name="desc_fade_in">Volume ramps from 0 to your level at the start of each track</string>
+
+    <string name="label_fade_out">Fade-out duration</string>
+    <string name="desc_fade_out">Volume drops to 0 near the end of each track (requires duration info from the app)</string>
+
+    <string name="default_seconds">3 s</string>
+    <string name="seconds_format">%d s</string>
+    <string name="range_min">1 s</string>
+    <string name="range_max">10 s</string>
+
+    <string name="permission_required">Notification Access required</string>
+    <string name="permission_explanation">MusicFader needs Notification Access to detect track changes in Spotify, YouTube, and other music apps.</string>
+    <string name="open_settings">Open Settings</string>
+
+    <string name="dialog_permission_title">Notification Access needed</string>
+    <string name="dialog_permission_message">MusicFader watches media sessions to detect when a new song starts. Please enable Notification Access for MusicFader in the Settings screen that opens.</string>
+
+    <string name="notification_permission_denied">Notification permission denied – the status bar icon may not appear.</string>
+
+    <string name="label_how_it_works">How it works</string>
+    <string name="how_it_works_body">1. Grant Notification Access so MusicFader can observe media sessions from any app.\n\n2. Enable the toggle above.\n\n3. Play music in Spotify, YouTube Music, JioSaavn, or any other app — MusicFader auto-fades volume at the start and near the end of each track.\n\n4. The service runs in the background and survives app switches. Use the notification actions to pause or stop it.</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="accent">#6C63FF</color>
+    <color name="accent_dark">#4B44CC</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#0F0F14</color>
+    <color name="card_background">#1C1C26</color>
+    <color name="surface">#252535</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F0F0F8</color>
+    <color name="text_secondary">#A0A0B8</color>
+    <color name="text_hint">#606078</color>
+
+    <!-- Warning banner -->
+    <color name="warning_background">#2A1F00</color>
+    <color name="warning_text">#FFCC44</color>
+
+    <!-- System -->
+    <color name="colorPrimary">#6C63FF</color>
+    <color name="colorPrimaryDark">#4B44CC</color>
+    <color name="colorAccent">#6C63FF</color>
+</resources>
