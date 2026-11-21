@@ -68,3 +68,5 @@ app/src/main/
     ├── layout/     activity_main.xml
     └── values/     colors, strings, themes
 ```
+
+<!-- build trigger 2026-11-21 22:02:34 -->
